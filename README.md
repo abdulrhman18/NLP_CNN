@@ -1,7 +1,9 @@
 # NLP_CNN
 Description:
 • Get dataset for sentiment analysis
+
 • Use any word2vec model
+
 • Classify using CNN (Architecture in lecture ‘5-2 Convolution’ slide 53) as (+ve, -ve) or
 (+ve, neutral, -ve) depending on your dataset
 • Try the architecture with different scales:
