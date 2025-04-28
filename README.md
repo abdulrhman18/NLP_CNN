@@ -1,5 +1,6 @@
 # NLP_CNN
 Description:
+
 • Get dataset for sentiment analysis
 
 • Use any word2vec model
